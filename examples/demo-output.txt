@@ -1,0 +1,28 @@
+{
+  "first_run": {
+    "applied": 3,
+    "stale": 2,
+    "duplicate": 1
+  },
+  "replay": {
+    "applied": 0,
+    "stale": 0,
+    "duplicate": 6
+  },
+  "state": [
+    {
+      "entity_id": "customer-a",
+      "version": 3,
+      "deleted": false,
+      "document": {
+        "plan": "pro"
+      }
+    },
+    {
+      "entity_id": "customer-b",
+      "version": 4,
+      "deleted": true,
+      "document": null
+    }
+  ]
+}

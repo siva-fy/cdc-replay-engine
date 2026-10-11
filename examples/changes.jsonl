@@ -1,0 +1,6 @@
+{"event_id":"1","entity_id":"customer-a","version":1,"op":"upsert","document":{"plan":"starter"}}
+{"event_id":"2","entity_id":"customer-a","version":3,"op":"upsert","document":{"plan":"pro"}}
+{"event_id":"3","entity_id":"customer-a","version":2,"op":"upsert","document":{"plan":"team"}}
+{"event_id":"4","entity_id":"customer-b","version":4,"op":"delete"}
+{"event_id":"5","entity_id":"customer-b","version":2,"op":"upsert","document":{"plan":"starter"}}
+{"event_id":"2","entity_id":"customer-a","version":3,"op":"upsert","document":{"plan":"pro"}}
